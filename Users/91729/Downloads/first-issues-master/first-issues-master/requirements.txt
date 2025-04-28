@@ -1,0 +1,6 @@
+tweepy
+Nose
+requests>=2.11.1
+click
+colorama
+pytest
